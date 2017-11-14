@@ -1,0 +1,22 @@
+
+/* Skills */
+#skills {
+  padding: 90px 0 120px 0;
+  background-color: black; }
+
+.skills-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  padding-top: 30px;
+  color: #f0bd01 !important;
+  text-align: center; }
+
+.skills-title2 {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: white;
+  /* font-weight: 300; */
+  text-align: center; }
+
+.skill_text {
+  text-align: center; }

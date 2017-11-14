@@ -1,0 +1,24 @@
+.about-title {
+  color: #f0bd01;
+  /* font-family: "Josefin Sans", sans-serif; */
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  margin-right: 60px; }
+
+.about-title2 {
+  color: white !important;
+  margin-top: -10px;
+  margin-bottom: 20px; }
+
+  #about {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: black; }
+
+.about-me {
+  padding-top: 70px;
+  margin-bottom: 100px; }
+
+.fit-img img {
+  float: right;
+  height:380px;
